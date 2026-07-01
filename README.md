@@ -14,10 +14,10 @@ entorno documentadas, scripts de ejecución y una estructura de carpetas ordenad
 
 | # | Integrante | Rol / Módulo principal |
 |---|------------|------------------------|
-| 1 | _Nombre Apellido_ | Autenticación y manejo de sesión (React) |
-| 2 | _Nombre Apellido_ | Portal del estudiante y diseño (React) |
-| 3 | _Nombre Apellido_ | Módulo público (Next.js) |
-| 4 | _Nombre Apellido_ | API REST, módulo de administración y documentación |
+| 1 | _Roger Angel Santos Ramos_ | Autenticación y manejo de sesión (React) |
+| 2 | _Renato Marmanillo Santi_ | Portal del estudiante y diseño (React) |
+| 3 | _Esli Rodrigo Julca Luis_ | Módulo público (Next.js) |
+| 4 | _Alexis Sebastian Quispe Ramos_ | API REST, módulo de administración y documentación |
 
 ---
 
